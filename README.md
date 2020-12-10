@@ -1,2 +1,2 @@
 # Harrry-xing-home-work
-My homework repository in UCI
+My homework repository in uci
